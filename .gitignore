@@ -1,0 +1,32 @@
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+.venv/
+venv/
+ENV/
+
+# Fichiers de configuration sensibles
+.env
+.env.*
+
+# Fichiers générés
+*.csv
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
+~*
+
+# Dossiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de l'IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project 
