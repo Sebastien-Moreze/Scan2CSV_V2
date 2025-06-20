@@ -1,0 +1,2 @@
+# Clé API Anthropic - Remplacez par votre vraie clé API
+ANTHROPIC_API_KEY=VOTRE_CLE_API_ICI 
